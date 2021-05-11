@@ -4,14 +4,10 @@
  * and open the template in the editor.
  */
 package Main;
-
+import java.util.*;
 /**
  *
  * @author k_zeb
  */
 public class Main {
     public static void main(String[] args){
-        
-    }
-    
-}
